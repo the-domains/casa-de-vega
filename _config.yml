@@ -1,4 +1,3 @@
-layout_spectrum: 0.5139951608143747
 typography_spectrum: 0.32799126743339
 color:
   brandStrength: 0.7591215770225972
@@ -11,4 +10,6 @@ color:
     - '#ABC8E2'
     - '#375D81'
     - '#183152'
+layout_spectrum: 0.5139951608143747
 name: Casa de Vega
+description: 'Play, Laugh, Love'
